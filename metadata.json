@@ -1,0 +1,6 @@
+{
+  "name": "TN Stories - Explore Tamil Nadu Tourism",
+  "description": "Smart, multilingual Tamil Nadu tourism, trip planning, smart booking wizard, offline trip mode, weather danger zone safety, and travel rewards platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
